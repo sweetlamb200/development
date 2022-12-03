@@ -1,0 +1,109 @@
+[
+    {
+        "name": "Naruto",
+        "description" : "Naruto, an adolescent ninja, dreams of becoming the Hokage in his village.",
+        "rating": 8.7,
+        "genre": "Action/Adventure",
+        "ongoing": "No",
+        "image" : "images/naruto.jpeg"
+    },
+
+    {
+        "name": "Your Lie in April",
+        "description" : "Revolves around a piano prodigy who lost his ability to play after suffering a traumatic event in his.",
+        "rating": 8.7,
+        "genre": "Romance",
+        "ongoing": "No",
+        "image" : "images/your-lie-in-april.jpg"
+    },
+
+    {
+        "name": "One Piece",
+        "description" : "Monkey D. Luffy, a young man made of rubber, who, inspired by his childhood idol sets off on a journey to proclaim himself the King of the Pirates.",
+        "rating": 8.9,
+        "genre": "Action/Adventure",
+        "ongoing": "Yes",
+        "image" : "images/one-piece.jpg"
+    },
+
+    {
+        "name": "Fullmetal Alchemist: Brotherhood",
+        "description" : "In the fictitious country of Amestris, two young brothers, Edward and Alphonse Elric, are bestowed with the gift of alchemy.",
+        "rating": 8.5,
+        "genre": "Action/Adventure",
+        "ongoing": "No",
+        "image" : "images/fullmetal.jpg"
+    },
+
+    {
+        "name": "Food Wars",
+        "description" : "Soma Yukihira battles some of the world's best chefs to prove himself and refine his skills.",
+        "rating": 8.1,
+        "genre": "Drama",
+        "ongoing": "No",
+        "image" : "images/food-wars.jpeg"
+    },
+
+    {
+        "name": "Horimiya",
+        "description" : "Popular Hori and outcast Miyamura learn about each other's true personalities and become close friends.",
+        "rating": 8.1,
+        "genre": "Romance",
+        "ongoing": "Yes",
+        "image" : "images/horimiya.png"
+    },
+
+    {
+        "name": "Jujutsu kaisen",
+        "description" : "Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses.",
+        "rating": 8.6,
+        "genre": "Action/Adventure",
+        "ongoing": "Yes",
+        "image" : "images/jujutsu.jpeg"
+    },
+
+    {
+        "name": "Anohana",
+        "description" : "Menma's friends reunite five years after her death to help her remember and fulfil a wish so she can pass on into the afterlife.",
+        "rating": 8.3,
+        "genre": "Drama",
+        "ongoing": "No",
+        "image" : "images/anohana.jpg"
+    },
+
+    {
+        "name": "Clannad",
+        "description" : "Tomoya Okazaki's life begins to change because of a new friend.",
+        "rating": 8.0,
+        "genre": "Drama",
+        "ongoing": "No",
+        "image" : "images/clannad.jpg"
+    },
+
+    {
+        "name": "Toradora",
+        "description" : "Ryuji Takasu is frustrated at trying to look his best as he enters his second year of high school",
+        "rating": 8.0,
+        "genre": "Romance",
+        "ongoing": "No",
+        "image" : "images/toradora.jpg"
+    },
+
+    {
+        "name": "Haikyuu",
+        "description" : "2 kids are determined to be like the current volleyball championship's star player.",
+        "rating": 8.3,
+        "genre": "Sports",
+        "ongoing": "No",
+        "image" : "images/haikyuu.jpg"
+    },
+
+    {
+        "name": "Kuroko's Basketball",
+        "description" : "Taiga Kagami and Tetsuya Kuroko aim to take the Seirin High School basketball team to the very top.",
+        "rating": 8.5,
+        "genre": "Sports",
+        "ongoing": "No",
+        "image" : "images/kuroko.jpg"
+    }
+]
