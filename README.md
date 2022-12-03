@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://sweetlamb200.github.io/cs1300-development`
+If you used the stencil code, this is `https://sweetlamb200.github.io/development`
 
 ### Goal and Value of the Application
 
